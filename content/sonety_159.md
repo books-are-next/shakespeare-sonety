@@ -3,8 +3,6 @@ title: Poznámka překladatele
 contentType: prose
 ---
 
-  
-
 Shakespearovy Sonety, které by už samy o sobě stačily zajistit svému tvůrci světové uznání, nemají u nás bohužel tradici tak živou a plodnou jako ostatní dílo velkého Stratforďana. Přesto však je tato tradice větší, než jsme se dosud domnívali, jak o tom svědčí nedávný nález překladů Jaroslava Vrchlického, i když ke škodě Shakespearovy i naší poezie Vrchlického verze Sonetů není úplná. A tak zůstává jediným úplným převodem Sonetů do češtiny stále ještě překlad, který vydal roku 1923 na Kladně Antonín Klášterský.[1](./resources/undefined)
 
 Ostatní překladatelé Sonetů, v jejichž řadách najdeme i tak významné shakespearovské tlumočníky jako J. V. Sládka a Ot. Fischera, se spokojili s převodem několika ukázek nebo také jen jednotlivých sonetů; většina těchto překladů byla porůznu otištěna, některé však – jako připomenutý soubor Vrchlického – zůstaly v rukopisech. V rukopisu jsou dosud také překlady E. A. Saudka.
@@ -43,8 +41,8 @@ S jakým zdarem byl splněn, to posoudí čtenáři sami. Ostatně jen jim a j
 
 Překladatelův dík náleží rovněž všem tlumočníkům Sonetů do češtiny a jiných jazyků, jejichž prací, pokud byly dostupné, použil, jmenovitě Alfredu Copinovi (Les Sonnets de Shakespeare, Paris 1888), Stefanu Georgovi (Shakespeare, Sonette, Umdichtung, Berlin 1931), Antonínu Klášterskému (William Shakespeare, Sonety, Kladno 1923), Samuilu Maršakovi (Sonety Šekspira, Moskva 1949) a Giraudu d’Uccle (William Shakespeare, Sonnets, Alger 1942). Velikou pomoc pro překladatele znamenalo také kritické vydání Sonetů ve sbírce The Arden Shakespeare, jehož poznámky a emendace pomohly rozluštit nejedno obtížné místo. Pokud se překladatel na několika málo místech znatelně rozchází s originálem, otištěným zde podle znění původního Thorpova vydání z roku 1609, řídil se při tom připomínkami uvedeného vydání kritického.
 
-Jan Vladislav
+> Jan Vladislav
 
 * * *
 
-[1](./resources/undefined) Stav vyšlých překladů do češtiny z roku 1955. Pozn. red.
+_[1](./resources/undefined) Stav vyšlých překladů do češtiny z roku 1955. Pozn. red._
