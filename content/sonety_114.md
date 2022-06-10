@@ -3,6 +3,8 @@ title: '110'
 contentType: prose
 ---
 
+<section>
+
 _Žel, pravda, přiznávám, já světem jsem se bral,  
 sám bloudil sem a tam a přijal oblek šašků,  
 sám vlastní city dral a za groš prodával,  
@@ -17,3 +19,5 @@ bloudit a mučit tím starého přítele,
 jenž je bůh lásky mé a jemuž jsem se dal.  
          Tož už mne přivítej, ty první po mém Bohu,  
          ať ve tvé náruči spočinout navždy mohu._
+
+</section>

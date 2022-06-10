@@ -3,6 +3,8 @@ title: '3'
 contentType: prose
 ---
 
+<section>
+
 _Nakloň se k zrcadlu a řekni tváři v něm,  
 že už má na čase vytvořit jinou v krátku;  
 jestli teď nebude její jas obnoven,  
@@ -17,3 +19,5 @@ tak i ty uvidíš vzdor vráskám okny stáří
 tento svůj zlatý věk v dětech se navracet.  
          Jestli chceš ale žít, aby tě zapomněli,  
          pak zemři neženat — a zemřeš navždy celý._
+
+</section>

@@ -3,6 +3,8 @@ title: '83'
 contentType: prose
 ---
 
+<section>
+
 _Nikdy jsem neviděl, že vy se líčíte,  
 a tak jsem vaši tvář nelíčil ani já;  
 myslil jsem, věřil jsem, že vy se tyčíte  
@@ -17,3 +19,5 @@ když mlčím, uškodím kráse míň nežli ti,
 kteří jí chtějí dát život — a dají rov.  
          Vy máte v jediném oku víc života  
          než vaši básníci v svých chválách oba dva!_
+
+</section>

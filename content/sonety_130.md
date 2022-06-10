@@ -3,6 +3,8 @@ title: '126'
 contentType: prose
 ---
 
+<section>
+
 _Ó milý hochu, ty, který jsi zastavil  
 tu kosu Času a míjivý písek chvil,  
 který jsi vadnutím vzrostl a ukázal,  
@@ -15,3 +17,5 @@ A přece měj z ní strach, ty, v němž se vidí svět:
 může svůj poklad jen zdržet, ne zadržet.  
          Jednou, byť po čase, se začne účtovati  
          a ona nakonec ten účet tebou splatí._
+
+</section>

@@ -3,6 +3,8 @@ title: '94'
 contentType: prose
 ---
 
+<section>
+
 _Kdo má moc ublížit a přece se jí vzdává,  
 kdo nikdy nedělá, co stále hrozí v něm,  
 kdo zmítá jinými a sám vždy odolává  
@@ -17,3 +19,5 @@ jakmile však ten květ nákaza zachvátila,
 i sprosté lopuší víc ceny pro ně má:  
          čin může nejsladší věc zvrátit v nejhrubší;  
          hnijící lilie čpí hůř než lopuší._
+
+</section>

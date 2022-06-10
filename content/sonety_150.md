@@ -3,6 +3,8 @@ title: '146'
 contentType: prose
 ---
 
+<section>
+
 _Ó duše ubohá, střed hříšné hlíny mé,  
 v plen daná žádostem, jež se kol tebe vzpouzí,  
 proč uvnitř zůstáváš v té bídě bezedné  
@@ -17,3 +19,5 @@ Věčný ráj vykup si chvilinkou zdejších běd,
 nehleď už na vnějšek, hleď uvnitř růst a kvésti.  
          Tak i Smrt přemůžeš — a její vlastní zbraní:  
          až bude mrtva Smrt, je konec umírání._
+
+</section>

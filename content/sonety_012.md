@@ -3,6 +3,8 @@ title: '8'
 contentType: prose
 ---
 
+<section>
+
 _Proč, hudbo pro poslech, nasloucháš hudbě smutná?  
 Což hyne slastí slast a štěstím štěstí snad?  
 Proč vlastně miluješ, co ti tak hořce chutná,  
@@ -17,3 +19,5 @@ skoro bys řekl muž, dítě a šťastná matka
 to pějí jásavý zpěv jako jeden hlas;  
          ta píseň beze slov, v níž hlasů na tisíc  
          zní tónem jediným, říká: „Sám nejsi nic.“_
+
+</section>

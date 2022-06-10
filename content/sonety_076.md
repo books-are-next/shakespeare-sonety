@@ -3,6 +3,8 @@ title: '72'
 contentType: prose
 ---
 
+<section>
+
 _Aby vás jednou svět nenutil vyprávět,  
 čím jsem si zasloužil, že jste mne miloval,  
 až umřu, miláčku, zapomeňte mne hned,  
@@ -17,3 +19,5 @@ nechť s mými ostatky pohřbí mé jméno též,
 aby už nežilo k hanbě mně ani vám.  
          Neboť já cítím stud, že nedovedu víc,  
          a vy se styďte též, že máte rád mne — nic!_
+
+</section>

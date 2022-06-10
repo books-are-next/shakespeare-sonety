@@ -3,6 +3,8 @@ title: '4'
 contentType: prose
 ---
 
+<section>
+
 _Proč ale utrácíš, ty marnotratná něho,  
 jen sama pro sebe dědictví krásy své?  
 Příroda nedává svůj odkaz, půjčuje ho,  
@@ -17,3 +19,5 @@ A když tě příroda odvolá nenadále,
 mluv, jaký počet pak ze všeho světu dáš?  
          Kdybys jí neužil, tvá krása s tebou ztlí;  
          kdybys jí použil, tvůj odkaz naplní._
+
+</section>

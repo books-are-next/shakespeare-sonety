@@ -3,6 +3,8 @@ title: '23'
 contentType: prose
 ---
 
+<section>
+
 _Tak jako na scéně nedokonalý herec,  
 jenž strachy pojednou vypadne z úlohy,  
 tak jako zuřivec a příliš velký smělec,  
@@ -17,3 +19,5 @@ vždyť prosí o lásku a trochu ohledů
 víc než ty cizí rty, jež uměly víc říci.  
          Ó nauč se už číst, co láska mlčky psala —  
          vždyť slyšet očima láska vždy umívala._
+
+</section>

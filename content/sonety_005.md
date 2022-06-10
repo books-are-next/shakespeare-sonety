@@ -3,6 +3,8 @@ title: '1'
 contentType: prose
 ---
 
+<section>
+
 _Chceme mít potomstvo od všeho, co je krásné,  
 aby květ krásy zde nikdy kvést nepřestal,  
 nýbrž až dozraje, až opadne a zhasne,  
@@ -17,3 +19,5 @@ chystáš sám v sobě hrob tomu, co v tobě vzkvétá,
 a — něžný lakomec — plýtváš v svém skrblení.  
          Smiluj se nad světem, zanech té lakoty,  
          nechtějte poklad všech zhltnout jen hrob a ty!_
+
+</section>

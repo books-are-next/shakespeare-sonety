@@ -3,6 +3,8 @@ title: '108'
 contentType: prose
 ---
 
+<section>
+
 _Co ještě v mozku mám, abych to běžel zapsat,  
 s čím se ti nesvěřil dosud můj věrný duch?  
 Co mohu nového vyslovit nebo napsat,  
@@ -17,3 +19,5 @@ odpírá přijímat nevyhnutelné vrásky
 a činí stáří svým pážetem pro věčnost.  
          A vidí prvotní jas lásky hořet dál  
          i tam, kde čas a vzhled svědčí, že dokonal._
+
+</section>

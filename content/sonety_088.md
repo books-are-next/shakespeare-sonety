@@ -3,6 +3,8 @@ title: '84'
 contentType: prose
 ---
 
+<section>
+
 _Kdo může říci víc — byť říkal sebevíce —  
 nežli ta chvála chval, že jenom vy jste vy?  
 Ve kterých stěnách je ukryta pokladnice,  
@@ -17,3 +19,5 @@ a už ta kopie proslaví jeho jméno
 a všude budou mít v obdivu jeho styl.  
          Při všech těch přednostech vám jenom jedno schází:  
          jste hrdý na chválu, jež vaše chvály kazí._
+
+</section>

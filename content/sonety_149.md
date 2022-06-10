@@ -3,6 +3,8 @@ title: '145'
 contentType: prose
 ---
 
+<section>
+
 _Ústy, jež stvořila láska svou vlastní rukou,  
 vydechla proti mně: „Ach, cítím nenávist,“  
 ač ví, že kvůli ní umírám sladkou mukou;  
@@ -17,3 +19,5 @@ milý den po noci, která se ve tmách skryla
 a klesla z oblohy jak satan do pekel:  
          „Ach, cítím nenávist“ — a zachránila mne,  
          když tu zášť odvrhla a řekla: „K vám však ne!“_
+
+</section>

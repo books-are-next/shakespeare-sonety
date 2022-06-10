@@ -3,6 +3,8 @@ title: '24'
 contentType: prose
 ---
 
+<section>
+
 _Mé oko na způsob malíře navždy vrylo  
 do desky srdce tvůj obličej jako živý;  
 mé tělo jako rám ten obraz obroubilo  
@@ -17,3 +19,5 @@ jsou okny pro mou hruď, do které každou chvíli
 nahlédne slunce a dívá se na tebe.  
          Leč jedno umění ty oči nemají:  
          kreslí jen to, co zří, a srdce neznají._
+
+</section>

@@ -3,6 +3,8 @@ title: '122'
 contentType: prose
 ---
 
+<section>
+
 _Tvůj dar, ten zápisník, je uložen v mé hlavě  
 a popsán trvalým písmem mých vzpomínek,  
 které tu nicotnost přečkají ke tvé slávě  
@@ -17,3 +19,5 @@ proto jsem odložil to, číms mne obdaroval,
 a věřím záznamům, do nichž jsi lépe vryt.  
          Mít něco na pomoc, čím si tě připomínám,  
          bylo by přiznáním, že snadno zapomínám._
+
+</section>

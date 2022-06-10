@@ -3,6 +3,8 @@ title: '21'
 contentType: prose
 ---
 
+<section>
+
 _Se mnou to není, věř, tak jako s básníkem,  
 píšícím veršíky o malované kráse,  
 který ji krášlí i nebesy den co den  
@@ -17,3 +19,5 @@ tak jako každý z nás, i když jí chybí snad
 jas oněch zlatých svěc, jež noc v tmách postavila.  
          A dál ať hovoří ten, kdo má řeči rád;  
          já chválit nebudu, co nechci prodávat._
+
+</section>

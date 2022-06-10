@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Sonety](https://search.mlp.cz/cz/titul/sonety/2246777/#/dk=key-eq:2889012-amp:titul-eq:true&getPodobneTituly=deskriptory-eq:401-amp:key-eq:2246777) tak, jak bylo vydáno Státním nakladatelstvím krásné literatury, hudby a umění v Praze v roce 1955. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 ![](../Images/MZK_logo_tyrkys_transparent.jpg)
@@ -19,4 +21,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 13. 8. 2021.
 
+</section>
+
+<section>
+
 ![](../Images/image002.jpg)
+
+</section>

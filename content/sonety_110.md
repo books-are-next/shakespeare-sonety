@@ -3,6 +3,8 @@ title: '106'
 contentType: prose
 ---
 
+<section>
+
 _Když v dávných kronikách s listy už zežloutlými  
 čítávám popisy těch starobylých reků  
 a krásu krášlící ty staré sladké rýmy  
@@ -17,3 +19,5 @@ věku, v němž žijeme, a předvídají vás;
 nemohly postačit k slavení vašich krás.  
          My zas, kdo můžeme vás vidět neustále,  
          máme zrak k úžasu, ale ne slova k chvále._
+
+</section>

@@ -3,6 +3,8 @@ title: '79'
 contentType: prose
 ---
 
+<section>
+
 _Dokud jsem o pomoc tě prosil jenom já,  
 tvá krása krášlila všechna jen moje rýmy;  
 teď však můj zvučný verš hyne a upadá,  
@@ -17,3 +19,5 @@ a přitom našel ji v tvé tváři: z jeho chval
 nezáří nic než to, co září ve tvém jasu.  
          Proto mu neděkuj za jeho veršíky:  
          vždyť je to jeho dluh, jejž i tak platíš ty._
+
+</section>

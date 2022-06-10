@@ -3,6 +3,8 @@ title: '137'
 contentType: prose
 ---
 
+<section>
+
 _Co to jen, Lásko, ty slepá a bláznivá,  
 děláš mým očím, že nevidí to, co vidí?  
 Ač znají krásu a vědí, v čem spočívá,  
@@ -17,3 +19,5 @@ A můj zrak, proč to má popírat, když to ví,
 a halit takovou temnou tvář rouškou ctnosti?  
          Mé srdce i můj zrak měly dřív pravdu za lež  
          a teď je ranila nákazou tato faleš._
+
+</section>

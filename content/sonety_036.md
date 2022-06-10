@@ -3,6 +3,8 @@ title: '32'
 contentType: prose
 ---
 
+<section>
+
 _Jestliže přežiješ ten vytoužený den,  
 až Smrt, ten chrt, můj prach posbírá do uzlíku,  
 a jednou náhodou zavadíš pohledem  
@@ -17,3 +19,5 @@ i jeho láska by přinesla lepší květ
 a pak by v šiku těch nejlepších kráčel zas.  
          On však už nežije a jiní došli dál:  
          ty čtu pro jejich sloh — a jej, že miloval.“_
+
+</section>
