@@ -3,6 +3,8 @@ title: '61'
 contentType: prose
 ---
 
+<section>
+
 _Chceš to ty, aby mi celou noc v očích stál  
 tvůj obraz, i když mne víčka už tolik pálí?  
 Chceš to ty, abych tu zas a zas procítal  
@@ -17,3 +19,5 @@ má věrná láska vždy ruší můj noční klid,
 ta to chce, abych stál na stráži kvůli tobě!  
          A tak tu stojím stráž a ty též někde bdíš —  
          ode mne daleko, o to však jiným blíž._
+
+</section>

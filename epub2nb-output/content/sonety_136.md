@@ -3,6 +3,8 @@ title: '132'
 contentType: prose
 ---
 
+<section>
+
 _Miluji oči tvé, jež jako kdyby znaly  
 ten posměch, jímž se mi tvé srdce stále mstí,  
 oblékly černý šat jako dva pozůstalí  
@@ -17,3 +19,5 @@ když ti to truchlení tak sluší v každé době,
 a ty ses oděla celá v ten drahý cit!  
          Pak odpřisáhnu rád, že krása v černi tkví  
          a ti, co nemají tvou pleť, jsou oškliví._
+
+</section>

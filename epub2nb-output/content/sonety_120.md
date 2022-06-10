@@ -3,6 +3,8 @@ title: '116'
 contentType: prose
 ---
 
+<section>
+
 _Nemluvte o tom, že svazku dvou věrných duší  
 jsou v cestě překážky! Kdopak by láskou zval  
 cit, jenž se změní sám, sotvaže změnu tuší,  
@@ -17,3 +19,5 @@ láska, ta nemíjí jak míjivý běh Času,
 ta všechno přetrvá a jde až do hrobu.  
          A jestli je to blud, jejž bych sám dosvědčoval,  
          pak nikdy nepsal jsem a nikdo nemiloval._
+
+</section>

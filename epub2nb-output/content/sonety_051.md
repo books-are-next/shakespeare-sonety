@@ -3,6 +3,8 @@ title: '47'
 contentType: prose
 ---
 
+<section>
+
 _Mé srdce a můj zrak sjednaly dohodu  
 a jeden druhému teď pomáhá a slouží:  
 když můj zrak hladoví po jednom pohledu  
@@ -17,3 +19,5 @@ dál než tvé myšlenky přece jít nemůžeš,
 a já jsem s nimi vždy a ony s tebou zase;  
          a jestli někdy spí, tvůj obraz budí v spěchu  
          mé srdce srdci a pohledům pro potěchu._
+
+</section>

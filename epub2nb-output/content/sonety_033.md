@@ -3,6 +3,8 @@ title: '29'
 contentType: prose
 ---
 
+<section>
+
 _Když opuštěn a sám naříkám na svůj osud,  
 zavržen štěstím a lidmi, už trosečník,  
 když hledím na sebe a klnu svému losu  
@@ -17,3 +19,5 @@ k nebesům rozlétne radostný hlas mé písně
 jak skřivan letící z temných brázd v záři jitra:  
          neboť tvá láska mi dodává tolik sil,  
          že ani s králem už bych věru neměnil._
+
+</section>

@@ -3,6 +3,8 @@ title: '90'
 contentType: prose
 ---
 
+<section>
+
 _Tož chceš-li, nenáviď mě, teď je k tomu čas,  
 když se už proti mně postavil celý svět,  
 spolči se se zlobou osudu, znič mne, sraz,  
@@ -17,3 +19,5 @@ ale přijď útokem: alespoň okusím
 nejdřív tu nejhorší ze všech ran osudu.  
          A všechno, co se mi dnes utrpením zdálo,  
          bude mi připadat, až ztratím tebe, málo._
+
+</section>

@@ -3,6 +3,8 @@ title: '12'
 contentType: prose
 ---
 
+<section>
+
 _Když slyším v noci zvon zvolna čas odbíjet  
 a vidím jasný den, jak hasne v hrůzných tmách,  
 když hledím na jaře, jak vadne vonný květ,  
@@ -17,3 +19,5 @@ vždyť každý půvab se posléze zradí sám
 a zmírá mezitím, co jiný vzkvétá zas.  
          A nikdo nemůže srp Času odvrátit,  
          jen v dětech můžeš mu navzdor — ač mrtev — žít._
+
+</section>

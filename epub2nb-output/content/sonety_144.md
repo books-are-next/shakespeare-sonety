@@ -3,6 +3,8 @@ title: '140'
 contentType: prose
 ---
 
+<section>
+
 _Buď moudrá, jako jsi ukrutná; nemuč stále  
 mou němou pokoru přílišným posměchem;  
 nebo mi bolest dá rty a ty nenadále  
@@ -17,3 +19,5 @@ svět je tak šílený a tak rád věří lhaní,
 že by i pomluvám šílence víru dal.  
          Abychom se těch běd oba dva vystříhali,  
          buď aspoň zraky zde, když už jsi srdcem v dáli._
+
+</section>

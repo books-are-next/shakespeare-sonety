@@ -3,6 +3,8 @@ title: '36'
 contentType: prose
 ---
 
+<section>
+
 _Je to tak, věř, my dva musíme být zas dva,  
 ač naše nedílná láska je pouze jedna;  
 a tak tu poskvrnu, jež na mně ulpěla,  
@@ -17,3 +19,5 @@ a ty též nesmíš mne veřejně poctívat,
 kdybys tu poctu měl ubírat svému jménu.  
          To ale nedělej; vždyť já tě proto chci,  
          že dokud jsi můj ty, je můj i kus tvé cti._
+
+</section>

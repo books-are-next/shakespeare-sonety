@@ -3,6 +3,8 @@ title: '124'
 contentType: prose
 ---
 
+<section>
+
 _Kdyby byl dítětem pompy můj vřelý cit,  
 jak bastard Štěstěny by mohl osiřeti  
 a podle přízně či nepřízně Času být  
@@ -17,3 +19,5 @@ on se zde tyčí sám jak vrchol moudrosti,
 nevzrůstá pod žárem, neklesá pod přívaly.  
          A svědkem toho jsou všecky mé omyly,  
          jež pro hřích žily a pro dobro dožily._
+
+</section>

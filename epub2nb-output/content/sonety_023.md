@@ -3,6 +3,8 @@ title: '19'
 contentType: prose
 ---
 
+<section>
+
 _Zurážej spáry lvu, Čase vše ničící,  
 nech zemi pohltit, co jsi jí zrodit dal,  
 ulámej tesáky divoké tygřici,  
@@ -17,3 +19,5 @@ dovol, ať zůstane takový, jaký je,
 jako vzor krásy všem budoucím za příklad.  
          Anebo znič i to, Čase: v těch verších tady  
          bude můj milý žít vzdor tobě věčně mladý._
+
+</section>

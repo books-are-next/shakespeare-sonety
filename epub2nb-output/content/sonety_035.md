@@ -3,6 +3,8 @@ title: '31'
 contentType: prose
 ---
 
+<section>
+
 _Tvá hruď je vzácnější o to, že uvnitř zní  
 srdce všech, které jsem za mrtvé pokládal;  
 a láska vládne tam se vším, co patří k ní,  
@@ -17,3 +19,5 @@ kteří ti dali vše, co ze mne mívali —
 a tak co bývalo mnohých, je dnes jen tvé:  
          já vidím tváře všech milených ve tvé kráse,  
          a ty sám, součet všech, máš všechno moje zase._
+
+</section>

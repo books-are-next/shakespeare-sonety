@@ -3,6 +3,8 @@ title: '118'
 contentType: prose
 ---
 
+<section>
+
 _Tak jako jitříme ostrými omáčkami  
 své patro, chceme-li lepší chuť k jídlu mít,  
 jako si děláme purgací nemoc sami  
@@ -17,3 +19,5 @@ uvrhla zdravého v nemoc a utrpení,
 když chtěla přebytek dobrého léčit zlem.  
          A tak jsem pochopil, v čem tady pravda je:  
          kdo vámi churaví, toho lék zabije!_
+
+</section>

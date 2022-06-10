@@ -3,6 +3,8 @@ title: '34'
 contentType: prose
 ---
 
+<section>
+
 _Pročpak jsi sliboval krásný den bez oblaků,  
 proč jsi mne nechal jít bez pláště na cesty,  
 když mne pak překvapil čas plný nízkých mraků,  
@@ -17,3 +19,5 @@ zármutek toho, kdo ublížil, nepomáhá
 tomu, kdo musí nést tu křivdu jako kříž.  
          Ale ty slzy, ach, ty perly lásky tvé,  
          ty slzy bohaté vykoupí všechno zlé._
+
+</section>

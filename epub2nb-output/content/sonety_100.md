@@ -3,6 +3,8 @@ title: '96'
 contentType: prose
 ---
 
+<section>
+
 _Jeden má za chybu tvé mládí a tvůj vzlet,  
 druhý má za přednost tvůj věk s tvou dychtivostí;  
 ale ať tak či tak, má tě rád celý svět —  
@@ -17,3 +19,5 @@ a kolik ctitelů bys ty sved na scestí,
 kdybys chtěl použít své moci v plné síle.  
          To ale nedělej; vždyť já tě proto chci,  
          že dokud jsi můj ty, je můj i kus tvé cti._
+
+</section>

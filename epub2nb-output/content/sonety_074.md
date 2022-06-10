@@ -3,6 +3,8 @@ title: '70'
 contentType: prose
 ---
 
+<section>
+
 _Že se ti vyčítá, to tvoje vada není,  
 protože krása je vždy terčem pomluvy;  
 něhu vždy provází ozdoba podezření,  
@@ -17,3 +19,5 @@ všecko to chválení však dosud neumělo
 dát pouta závisti, jež chodí volně dál:  
          neležet na tobě to podezření zla,  
          byla by království všech srdcí jenom tvá._
+
+</section>

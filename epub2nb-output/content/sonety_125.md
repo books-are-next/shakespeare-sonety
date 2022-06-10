@@ -3,6 +3,8 @@ title: '121'
 contentType: prose
 ---
 
+<section>
+
 _Je lepší špatný být nežli se špatným zdát,  
 má-li být nevinný obžalováván z viny  
 a ztrácet radost z cti, kterou mu může dát  
@@ -17,3 +19,5 @@ já se smím napřímit, zatím co oni ne,
 jejich duch nemůže odsuzovat mé činy!  
          Leda by tvrdili o světě veškerém,  
          že každý v něm je zlý a triumfuje zlem._
+
+</section>

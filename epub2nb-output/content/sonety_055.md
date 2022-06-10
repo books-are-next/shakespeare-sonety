@@ -3,6 +3,8 @@ title: '51'
 contentType: prose
 ---
 
+<section>
+
 _A proto odpouští má láska mému koni  
 na cestě od tebe tu jeho loudavost.  
 Vždyť když tě opouštím, nač spěchat, co nás honí?  
@@ -17,3 +19,5 @@ jak oheň bez těla dá se v let ržajíc dlouze;
 mé herce láska však pro lásku promine:  
          že kdysi nechtěla od tebe ani jít,  
          já k tobě poletím a koně nechám být._
+
+</section>

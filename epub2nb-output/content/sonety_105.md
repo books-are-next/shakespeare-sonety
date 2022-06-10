@@ -3,6 +3,8 @@ title: '101'
 contentType: prose
 ---
 
+<section>
+
 _Čímpak chceš odčinit, ó Muso zlenivělá,  
 to, že už nepíšeš o krásné věrnosti?  
 Vždyť věrnost s krásou vždy na milém závisela,  
@@ -17,3 +19,5 @@ přečká-li zlatý hrob, kam by ho pochovali,
 a dočká-li se chval věků, jež dosud spí.  
          A proto, Muso, piš! A já tě naučím,  
          jak ho zde uchovat tak, jak jej nyní zřím!_
+
+</section>

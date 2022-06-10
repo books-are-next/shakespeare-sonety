@@ -3,6 +3,8 @@ title: '49'
 contentType: prose
 ---
 
+<section>
+
 _Pro ten zlý okamžik — a může se to stát —  
 až spatřím, že ti jsou mé chyby na obtíž,  
 až jednou láska tvá s mou začne účtovat  
@@ -17,3 +19,5 @@ sám proti sobě já zvedám svou vlastní dlaň:
 zákon je při tobě a já jej obráním:  
          protože ty mi smíš kdykoli sbohem dát,  
          já však už nemám práv tvou lásku vymáhat._
+
+</section>

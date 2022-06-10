@@ -3,6 +3,8 @@ title: '144'
 contentType: prose
 ---
 
+<section>
+
 _Dvě lásky v srdci mám k štěstí i k zoufalství,  
 jako dva přeludy jdou nabádavě se mnou:  
 ten lepší duch je muž, který se jasně skví,  
@@ -17,3 +19,5 @@ o tom já doposud nevím nic bezpečného;
 mám strach, že první z nich je v pekle u druhého.  
          Leč pravdu nepoznám, budu žít v pochybách,  
          až mého anděla spálí můj ďábel v prach._
+
+</section>

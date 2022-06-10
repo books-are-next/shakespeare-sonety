@@ -3,6 +3,8 @@ title: '143'
 contentType: prose
 ---
 
+<section>
+
 _Tak jako utíká pečlivá hospodyně,  
 když honí doma své rozprchlé pernatce,  
 a přitom posadí dítě, jež měla v klíně,  
@@ -17,3 +19,5 @@ ale přijď, vrať se zas, až chytíš svoji vizi,
 a jako matka mne zulíbej nastokrát —  
          a budu modlit se, ať už máš, co chceš mít,  
          jenom když přijdeš pak můj nářek zkonejšit._
+
+</section>

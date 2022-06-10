@@ -3,6 +3,8 @@ title: '73'
 contentType: prose
 ---
 
+<section>
+
 _Ve mně už začíná, vidíš, ten smutný čas,  
 kdy žloutnou stromy a poslední lístek visí  
 v houštině haluzí, v nichž sviští drsný mráz,  
@@ -17,3 +19,5 @@ tak jako na loži, kde musí vydechnout,
 už stráven tím, co dřív živilo jeho síly.  
          To všechno vidíš, a přesto dál miluješ,  
          láskou vždy prudší to, co ztratíš v brzku též._
+
+</section>

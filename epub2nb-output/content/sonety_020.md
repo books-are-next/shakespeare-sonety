@@ -3,6 +3,8 @@ title: '16'
 contentType: prose
 ---
 
+<section>
+
 _Proč ale nechcete bojovat líp a snáze  
 s Časem, tím vladařem krutým a krvavým,  
 a proč se nechcete opevnit proti zkáze  
@@ -17,3 +19,5 @@ s vší vnitřní hodnotou a v celé vnější kráse
 pro oči budoucích zachovat neumí.  
          Vy musíte se dát, jestli se chcete mít —  
          a ve svém díle pak budete dál zde žít._
+
+</section>

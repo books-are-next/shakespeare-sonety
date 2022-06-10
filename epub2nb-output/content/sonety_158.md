@@ -3,6 +3,8 @@ title: '154'
 contentType: prose
 ---
 
+<section>
+
 _Když jednou usnul sám bůh Lásky na chvíli,  
 po boku pochodeň, jež srdce zažíhala,  
 přiběhl po špičkách sbor nymf, jež slíbily  
@@ -17,3 +19,5 @@ a jako léčivé zřídlo po naše dny
 pomáhá v nemocech; ale já, rab své paní,  
          u něho pochopil, že voda láskou vře,  
          láska však od vody nikterak nechladne._
+
+</section>

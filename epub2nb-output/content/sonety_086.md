@@ -3,6 +3,8 @@ title: '82'
 contentType: prose
 ---
 
+<section>
+
 _Ach, ano, uznávám, že nejsi muž mé Musy,  
 a proto můžeš číst — a nebude to hřích —  
 vše, co ti věnují a co ti píší druzí  
@@ -17,3 +19,5 @@ tvá pravá podoba pravdivě září jen
 z pravdivě prostých slov mých pravdomluvných rtů.  
          Ty hrubé barvičky jiných se hodí spíš  
          pro tváře bez krve — ty je mít nemusíš!_
+
+</section>

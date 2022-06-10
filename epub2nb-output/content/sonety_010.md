@@ -3,6 +3,8 @@ title: '6'
 contentType: prose
 ---
 
+<section>
+
 _Nedovol zpustošit drsnému spáru zimy  
 v tobě tvé léto dřív, než vydáš svoji tresť;  
 naplň už některou fiolu nejsladšími  
@@ -17,3 +19,5 @@ co by pak zmohla smrt, až půjdeš jednou s ní,
 kdyby tu po tobě tvé já dál v dětech žilo?  
          Nebuď tak svéhlavý, máš příliš krásy v sobě,  
          aby tvým dědicem byli jen červi v hrobě._
+
+</section>

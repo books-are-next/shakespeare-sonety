@@ -3,6 +3,8 @@ title: '81'
 contentType: prose
 ---
 
+<section>
+
 _Snad já vám budu psát náhrobní nápis jednou,  
 snad vy žít budete a mne už pojme hrob;  
 na vás však vzpomínky zde nikdy nevyblednou,  
@@ -17,3 +19,5 @@ a tak vám jazyky budoucích život vrátí,
 až ti, co dýchají, už dýchat nebudou:  
          jen vy — mou zásluhou — budete dýchat dál  
          ústy, jež vysloví, co jsem já o vás psal._
+
+</section>

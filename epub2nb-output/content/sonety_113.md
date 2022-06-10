@@ -3,6 +3,8 @@ title: '109'
 contentType: prose
 ---
 
+<section>
+
 _Ó nikdy neříkej, že zrádné srdce mám,  
 i když můj odjezd snad v tobě ten dojem budí;  
 spíše bych mohl, věř, odejít sobě sám  
@@ -17,3 +19,5 @@ snad všemi slabostmi, jež mívá člověk v sobě —
 pro tretku opustil nejvyšší poklad v tobě.  
          Tretkou je pro mne svět i s celým vesmírem  
          krom tebe, růže má, jež jsi mé všecko v něm!_
+
+</section>
