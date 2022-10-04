@@ -54,5 +54,7 @@ Překladatelův dík náleží rovněž všem tlumočníkům Sonetů do češtin
 > Jan Vladislav
 
 * * *
+
 [^1]: Stav vyšlých překladů do češtiny z roku 1955. Pozn. red.
+
 </section>
